@@ -1,6 +1,8 @@
 # Flutter-CodeLabs
 
-
+Welcome to the Flutter codelabs! While you try these, you can get help and chat with friendly people 
+— including Googlers working on Flutter, and folks from Flutter developer groups around the world 
+— in fd-* channels in the [Flutter Community Slack workspace.](http://fluttercommunity.dev/joinslack)
 
 ## Good for beginners
 
