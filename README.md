@@ -51,5 +51,3 @@ Welcome to the Flutter codelabs! While you try these, you can get help and chat 
 - [How to write a Flutter plugin](https://codelabs.developers.google.com/codelabs/write-flutter-plugin/#0)
 - [Using a plugin with a Flutter web app](https://codelabs.developers.google.com/codelabs/web-url-launcher/#0)
 - [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
-
-
